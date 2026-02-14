@@ -1,4 +1,4 @@
-<p align="center">
+this program is not for free and want to collab better call me 00355689456321 or email me algerilorenc357@gmail.com<p align="center">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./doc/images/readme/pt-hero.light.png" />
       <img src="./doc/images/readme/pt-hero.dark.png" />
